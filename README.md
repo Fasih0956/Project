@@ -88,7 +88,7 @@
 
     <script>
         const foodItems = [
-            { name: "Zinger Shawarma", image: "https://github.com/Fasih0956/Project/blob/0ac0b393383973f9f3434f63ea1636f28f7b3106/sddefault.jpg" },
+            { name: "Zinger Shawarma", image: "sddefault.jpg" },
             { name: "Classic Margherita Pizza", image: "https://via.placeholder.com/250?text=Pizza" },
             { name: "Grilled Cheese Sandwich", image: "https://via.placeholder.com/250?text=Sandwich" },
             { name: "Pasta Alfredo", image: "https://via.placeholder.com/250?text=Pasta" },
